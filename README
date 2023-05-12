@@ -1,0 +1,3 @@
+Practice Project on Codecademy learning platform, beginning with one large database schema, then restructuring it into 4 separate tables, in addition to some example queries to compare the ease of using both the prior and new schemas
+
+NOTE: The initial database / data was not included as this project focused on restructuring existing databases, but you can see the original database schema in the .txt file
