@@ -1,0 +1,19 @@
+store
+
+name	        type
+order_id	    integer
+order_date	    date
+customer_id	    integer
+customer_phone	character varying
+customer_email	text
+item_1_id	    integer
+item_1_name	    character varying
+item_1_price	numeric
+item_2_id	    integer
+item_2_name	    character varying
+item_2_price	numeric
+item_3_id	    integer
+item_3_name	    character varying
+item_3_price	numeric
+
+Rows: 100
